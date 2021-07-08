@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeneojsun/noelcheung.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://www.notion.so/zeneojsun/f8ba0da275fd4faca60f28c84a53ce41). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
